@@ -6,7 +6,7 @@ Somehow over the last few years I have stumbled from pizza delivery to Data Scie
 
 Must have taken a wrong turn on my last delivery? 
 
-But in all seriousness, I ended up here likely due to being a very curious guy and as it turns out especially so, for the businesses that I work with, and the problems which we work through. Once I realized I needed SQL to be able to answer my curiosities I was absolutely hooked. A few years later, a couple thousand queries, a few pipelines and beyond - and here we are! 
+But in all seriousness, I ended up here likely due to being a very curious guy and as it turns out especially so, for the businesses that I work with, and the problems which we work through. Once I realized I needed SQL to be able to answer my curiosities I was absolutely hooked. A few years later, a couple thousand queries, a few pipelines, etc. - and here we are! 
 
 ## Some things I am proud of
 
