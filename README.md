@@ -19,24 +19,12 @@ I feel blessed to do the work I do everyday and am so excited about the field of
 
 Currently I am based in: Kelowna, BC, Canada 🇨🇦
 
-But I absolutely love to travel ✈️
+I absolutely love to travel ✈️
 
-Mainly to 🏄 🏂
+mainly to 🏄 🏂
 
 A fun fact about me: I treeplanted for 4 years through university and planted over half a million trees 🌴
 
 
 🧰 My Current Toolbox Contains
 Python Logo Jupyter Logo HTML Logo CSS Logo Javascript Logo PostgreSQL Logo MySQL Logo MySQL Logo Git Logo npm Logo Tableau Logo Windows Logo Apple Logo Ubuntu Logo Bash Logo VScode Logo Pycharm Logo
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
