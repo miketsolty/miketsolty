@@ -19,7 +19,7 @@ Beyond that I have worked across many parts of the company, and like to think I 
 
 I feel blessed to do the work I do everyday and am so excited about the field of Data Science. 🙏
 
-### Some quick facts about me...
+## Some quick facts about me...
 
 Currently I am based in: Kelowna, BC, Canada 🇨🇦
 
@@ -30,5 +30,5 @@ mainly to 🏄 🏂
 I treeplanted for 4 years through university and have planted over half a million trees 🌴
 
 
-🧰 My Current Toolbox Contains
+## 🧰 My Current Toolbox Contains
 Python Logo Jupyter Logo HTML Logo CSS Logo Javascript Logo PostgreSQL Logo MySQL Logo MySQL Logo Git Logo npm Logo Tableau Logo Windows Logo Apple Logo Ubuntu Logo Bash Logo VScode Logo Pycharm Logo
