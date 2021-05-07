@@ -1,4 +1,4 @@
-Hi there 👋 
+# Hi there 👋 I am Mike Solty. 
 
 Thanks for checking out my github!
 
@@ -6,14 +6,16 @@ Somehow over the last few years I have stumbled from pizza delivery to Data Scie
 
 Must have taken a wrong turn on my last delivery? 
 
-But in all seriousness, I ended up here likely due to a deep curiousity for the business problems which I work on. Once I realized I needed SQL to be able to answer my curiosities I was absolutely hooked. My path with SQL led me to working as an analyst in Shopify's financial product realm where I helped find business opportunities for;
+But in all seriousness, I ended up here likely due to a deep curiousity for the business problems which I work on. Once I realized I needed SQL to be able to answer my curiosities I was absolutely hooked. 
 
-- Improving sales team processes
-- Reporting on sales team wins
-- Finding inconsistencies with our financial products (some inconsistencies led to millions of dollars of revenue being created)
-- Developing data stories (I was a key contributor on developing the sales story for [Shop](https://shop.app/what-shop-does)
+## Some things I am proud of
 
-Beyond that I have worked across many parts of the company, and like to think I have had a huge impact on Shopify, as a result on entreprenuership, and even the environment (thanks to [Shop!](https://shop.app/carbon-offsetting).
+- Acted as the financial sales team data partner to help improve processes and find effincies. Over the years we went from terrible spreadsheets to a terrible salesforce (was a surprisingly long road to get there).
+- Developped key reports for tracking sales metrics and helping leadership better understand our financial products.
+- Found some huge inconsistencies with our financial products (some of which led to millions of dollars of revenue being created).
+- Developped impactful data stories (I was a key contributor on developing the sales story for [Shop](https://shop.app/what-shop-does).
+
+Beyond that I have worked across many parts of the company, and like to think I have had a huge impact on Shopify, as a result on entreprenuership, and even the environment (thanks to [Shop!](https://shop.app/carbon-offsetting)).
 
 I feel blessed to do the work I do everyday and am so excited about the field of Data Science. 
 
