@@ -17,7 +17,9 @@ But in all seriousness, I ended up here likely due to a deep curiousity for the 
 
 Beyond that I have worked across many parts of the company, and like to think I have had a huge impact on Shopify, as a result on entreprenuership, and even the environment (thanks to [Shop!](https://shop.app/carbon-offsetting)).
 
-I feel blessed to do the work I do everyday and am so excited about the field of Data Science. 
+I feel blessed to do the work I do everyday and am so excited about the field of Data Science. 🙏
+
+### Some quick facts about me...
 
 Currently I am based in: Kelowna, BC, Canada 🇨🇦
 
@@ -25,7 +27,7 @@ I absolutely love to travel ✈️
 
 mainly to 🏄 🏂
 
-A fun fact about me: I treeplanted for 4 years through university and planted over half a million trees 🌴
+A fun one: I treeplanted for 4 years through university and planted over half a million trees 🌴
 
 
 🧰 My Current Toolbox Contains
