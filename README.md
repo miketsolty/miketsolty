@@ -31,4 +31,4 @@ I treeplanted for 4 years through university and have planted over half a millio
 
 
 ## 🧰 My Current Toolbox Contains
-![](images/python-original.svg) Jupyter Logo HTML Logo CSS Logo Javascript Logo PostgreSQL Logo MySQL Logo MySQL Logo Git Logo npm Logo Tableau Logo Windows Logo Apple Logo Ubuntu Logo Bash Logo VScode Logo Pycharm Logo
+<img src="images/python-original.svg" width=50 height=50 > Jupyter Logo HTML Logo CSS Logo Javascript Logo PostgreSQL Logo MySQL Logo MySQL Logo Git Logo npm Logo Tableau Logo Windows Logo Apple Logo Ubuntu Logo Bash Logo VScode Logo Pycharm Logo
