@@ -27,7 +27,7 @@ I absolutely love to travel ✈️
 
 mainly to 🏄 🏂
 
-A fun one: I treeplanted for 4 years through university and planted over half a million trees 🌴
+I treeplanted for 4 years through university and have planted over half a million trees 🌴
 
 
 🧰 My Current Toolbox Contains
